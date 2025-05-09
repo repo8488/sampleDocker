@@ -1,3 +1,3 @@
 Documenting the Docker Commands
 
-FROM golang - 
+FROM golang - Sets the base image
